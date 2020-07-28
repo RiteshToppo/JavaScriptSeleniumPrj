@@ -1,0 +1,11 @@
+{
+  "name": "seleniumexample",
+  "version": "1.0.0",
+  "description": "selenium project",
+  "main": "spec.js",
+  "scripts": {
+    "test": "echo \\\"error: no test\\\""
+  },
+  "author": "",
+  "license": "ISC"
+}
